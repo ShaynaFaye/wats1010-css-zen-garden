@@ -1,9 +1,9 @@
 Design Concepts
 
-I kept my design simple. I want it to look clean and more modern with color. I really like some of the bold colors in the sites I listed below.  I want to use bigger fonts. Some of the example CSS Zen sites had really small font which I didn't like, thought it was hard to see.  I like not having the blocks in the two columns I created line up exactly horizontally.  I like them being off a little from each other so it's not too symmetrical. I think this helps it look more modern too.
+I kept my design simple. I want it to look clean and more modern with big blocks of color. I really like some of the bold colors in the sites I listed below.  I want to use bigger fonts. Some of the example CSS Zen sites had really small font which I didn't like, thought it was hard to see.  I like not having the blocks in the two columns I created line up exactly horizontally.  I like them being off a little from each other so it's not too symmetrical. This helps draw their eyes down the page.  I think this helps it look more modern too.  I kept the main blocks of text in the same order as the original Zen Garden site because it seems the most logical order to read the information. I moved the list of other designs to the bottom because I wanted it to be bigger and more prominent than a small sidebar.
 
 
-I want the site to be easy to look at and navigate.  I liked keeping it simple so it's not too busy looking and purposefully created spacing to include negative space.  I don't want the user to be distracted or turned-off by a busy full page.  I think using bolder colors and cool fonts will make it more exciting looking, hopefully getting a user excited to try this project themselves.  
+I want the site to be easy to look at and navigate.  I liked keeping it simple so it's not too busy looking.  I don't want the user to be distracted or turned-off by a busy full page.  I think using bolder colors and cool fonts will make it more exciting looking, hopefully getting a user excited to try this project themselves.  
 
 
 These are the examples I liked the most: http://www.csszengarden.com/217/, http://www.csszengarden.com/221/, http://www.csszengarden.com/218/, and http://www.csszengarden.com/097/.  
